@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.c834b1fb1f75971ea85cf6b8bcf7464e.css"],"names":[],"mappings":"AACA,wBACC,mBAAoB,CACpB,mBAAoB,CACpB,YACD,CAEA,OACE,cACF","file":"app.c834b1fb1f75971ea85cf6b8bcf7464e.css","sourcesContent":["\n.hello[data-v-d4ed50ea]{\n display: -webkit-box;\n display: -ms-flexbox;\n display: flex;\n}\n\n.hello{\n  font-size: 16px;\n}\n"]}
