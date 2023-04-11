@@ -19,7 +19,7 @@ export default {
 </script>
 <style>
 .hello{
-  font-size: 16px;
+  font-size: 14px;
 }
 </style>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
